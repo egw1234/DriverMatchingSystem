@@ -6,7 +6,7 @@
 2. Priority Queue
 3. Grid-Based Search
 
-![Скриншот README](Benchmark.png)
+![Скриншот README](benchmark.png)
 ## Результаты бенчмарков (BenchmarkDotNet)
 
 | Алгоритм             | 100 водителей | 1000 водителей |
